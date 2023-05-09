@@ -69,7 +69,7 @@ const MessageContainer = styled.div`
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 100%;
+  height: 90%;
   font-weight: bold;
   color: maroon;
 `;
@@ -96,8 +96,8 @@ const ExperienceButton = styled.button`
 `;
 
 const ExperienceMessage = styled.div`
-  height: 30px;
-  width: 97%;
+  height: 50px;
+  width: 90%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -108,7 +108,7 @@ const ExperienceMessage = styled.div`
 `;
 
 const ParkImage = styled.img`
-    width: 97%;
+    width: 90%;
     object-fit: cover;
     margin-bottom: 1rem; 
     border-radius: 20px;
@@ -130,7 +130,7 @@ const ParkText = styled.div`
     align-items: center;
     justify-content: space-between;
     text-align: left;
-    width: 97%;
+    width: 90%;
     padding: 0.1rem 0;
     color: black;
     font-family: 'Baloo 2', sans-serif;
@@ -189,7 +189,7 @@ const DestinationsContainer = styled.div`
 const HeaderLocationContainer = styled.div`
     text-align: center;
     line-height: 1;
-    width: 97%;
+    width: 90%;
     padding: 0.3rem 0;
     background: rgb(51, 61, 41);
     border-radius: 8%/30%;
