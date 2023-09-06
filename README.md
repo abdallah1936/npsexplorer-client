@@ -1,6 +1,6 @@
 # npsExplorer
 
-### Link: [nps-explorer.netlify.app](https://645ae12259fd3d52913fb954--grand-sunflower-c807ab.netlify.app)
+### Link: [nps-explorer.netlify.app](https://nationalparkstogoto.netlify.app)
 
 Discover and explore the beauty of national parks with **npsExplorer**. Learn about park details, activities, history, and view stunning images as you create your personalized destination itinerary of parks across the country!
 
